@@ -1,6 +1,6 @@
 # Carrinho de Compras com React JS
 
-Este é um projeto de carrinho de compras básico desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
+Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
 
 ## Funcionalidades
 
@@ -15,14 +15,6 @@ Este é um projeto de carrinho de compras básico desenvolvido com React JS. Ele
 - HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
 - CSS3: linguagem de estilo para estilizar a interface do usuário.
 - API do Mercado Livre: utilizada para obter dados de produtos.
-
-## Como executar o projeto
-
-1. Clone este repositório para o seu ambiente local.
-2. Navegue até a pasta do projeto.
-3. Instale as dependências do projeto executando o seguinte comando: `npm install`.
-4. Inicie a aplicação com o comando: `npm start`.
-5. Acesse a aplicação no seu navegador em: `http://localhost:3000`.
 
 ## Playlist no Youtube
 
